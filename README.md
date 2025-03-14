@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+Product Listing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Overview
+
+Product Listing is a React.js-based web application for displaying and managing product listings. It incorporates modern libraries like React Router, Axios, and Tailwind CSS to ensure a seamless and scalable experience.
 
 ## Available Scripts
 
@@ -14,57 +16,78 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React 19 with functional components and hooks
 
-### `npm run build`
+Client-side routing using React Router
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+API integration with Axios
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Styled using Tailwind CSS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+UI icons with React Icons
 
-### `npm run eject`
+Unit testing with Testing Library
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To set up the project locally, follow these steps:
+1. Clone the repository:
+   git clone https://github.com/your-repo/product-listing.git
+   cd product-listing
+2. Install dependencies:
+   npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Scripts
+You can run the following scripts:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Start the development server
+  npm start
 
-## Learn More
+2. Build for production
+   npm run build
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. Run tests
+   npm test
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. Eject configuration (if needed)
+   npm run eject
 
-### Code Splitting
+Dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+React 19
 
-### Analyzing the Bundle Size
+React Router DOM
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Axios
 
-### Making a Progressive Web App
+Tailwind CSS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+React Icons
 
-### Advanced Configuration
+Development
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+ESLint Configuration
 
-### Deployment
+This project follows ESLint rules provided by Create React App:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+react-app
 
-### `npm run build` fails to minify
+react-app/jest
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Browser Support
+
+Supports the latest versions of Chrome, Firefox, and Safari.
+
+License
+
+MIT License
+
+Author
+
+Raju Matam
+
+
+    
+
